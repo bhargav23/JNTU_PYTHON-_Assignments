@@ -1,3 +1,5 @@
+#Write a program to read realestate.csv and insert all the records( all columns) to the database
+
 import pymysql
 import csv
 
